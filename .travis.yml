@@ -15,4 +15,5 @@ branches:
   only:
     - master
     - working
+    - new feature
     
